@@ -9,3 +9,6 @@ veriyi işleyerek ekrana yazdırır.
 
 
 <img width="1470" height="816" alt="Ekran Resmi 2026-10-05 15 25 00" src="https://github.com/user-attachments/assets/51f3ce0b-6c97-4536-85b3-e61240969363" />
+
+
+<img width="1470" height="821" alt="Ekran Resmi 2026-10-05 15 24 47" src="https://github.com/user-attachments/assets/ae668b09-243e-4d64-833a-7f9b48c79be2" />
